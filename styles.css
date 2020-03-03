@@ -1,0 +1,51 @@
+h1{
+    padding-top: 40px;
+    font-family: Arial;
+}
+.navbar{
+    background-color: #f7f7f710
+}
+
+.jumbotron{
+        background-image: url(https://i.pinimg.com/originals/e2/d7/26/e2d7261cc9bdb9fe3ac5a32f5256e88d.jpg);
+       height:400px; 
+       background-position: bottom ;
+       background-repeat: no-repeat;
+       background-size: cover;
+       position: relative;
+       color: rgb(240, 247, 239);
+    }
+
+    .backg{
+        background-color:black;
+    
+    }
+    .backgabout{
+        background-color: rgb(97, 137, 248);
+    }
+    .button
+    {
+        padding-left: 60000px;
+    }
+
+    img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+      }
+
+      h1.about{
+          text-align: center;
+      }
+      .row{
+          padding-top: 3%;
+      }
+
+#sameheight{
+    height: 500px !important;
+}
+
+#widepic{
+    width: 100% !important;
+    height: auto !important;
+}
